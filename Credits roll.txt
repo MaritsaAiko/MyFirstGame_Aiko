@@ -38,6 +38,14 @@ ________________________________________________________________________________
 . Carpet
 - Texture
 = Jullio Sillet 3D Art - Fabric
+
+. Radio
+- Radio
+= "Radio" (https://skfb.ly/68XqW) by TraianDumbrava is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+. Letter
+- Stack of letter Texture
+= majcher on itch.io
 ____________________________________________________________________________________________________________________________
 
 . Cave

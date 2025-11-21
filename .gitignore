@@ -1,6 +1,19 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+#Kata agate suruh ignore ini
+Saved/*
+
+Intermediate/*
+
+Plugins/*/Intermediate/*
+
+DerivedDataCache/*
+
+.vsconfig 
+
+*.sln
+
 # Compiled Object files
 *.slo
 *.lo
@@ -72,3 +85,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Credits roll.txt
+Credits roll.txt
+Credits roll.txt
+*.txt
+Credits roll.txt
